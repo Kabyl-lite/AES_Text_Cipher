@@ -77,10 +77,10 @@ This Python application provides a user-friendly interface for encrypting and de
 - **Error handling:** The code includes error handling to catch potential exceptions and provide informative messages.
 
 
-**## Contributing**
+**Contributing**
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-**## License**
+**License**
 
 MIT: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
