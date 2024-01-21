@@ -1,9 +1,9 @@
-**# AES Text Cipher**
+**AES Text Cipher**
 
 License: MIT: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
 
-**## Description**
+**Description**
 
 This Python application provides a user-friendly interface for encrypting and decrypting text using the AES (Advanced Encryption Standard) cipher. It features:
 
@@ -14,14 +14,14 @@ This Python application provides a user-friendly interface for encrypting and de
 - **File loading and saving:** Encrypt and decrypt text from and to files.
 - **Error handling:** Displays informative error messages to guide users.
 
-**## Dependencies**
+**Dependencies**
 
 - Python 3
 - `pygubu`
 - `pycryptodome`
 - `tkinter`
 
-**## Installation**
+** Installation**
 
 1. Install dependencies:
 
@@ -32,26 +32,20 @@ This Python application provides a user-friendly interface for encrypting and de
 2. Download the code files: `AES.py` and `Text_Cipher.ui`.
 
 
-* * *
-
-* * *
-
-**## Installation**
-
-1. Clone the repository:
+3. Clone the repository:
 
    ```bash
    git clone https://github.com/[your-username]/AES-Text-Cipher.git
    ```
 
-2. Install dependencies:
+4. Install dependencies:
 
    ```bash
    cd AES-Text-Cipher
    pip install -r requirements.txt
    ```
 
-**## Usage**
+**Usage**
 
 1. Run the application:
 
@@ -67,7 +61,7 @@ This Python application provides a user-friendly interface for encrypting and de
    - View the encrypted or decrypted text in the output field.
    - Save the output to a file if needed.
 
-**## Important Notes**
+**Important Notes**
 
 - **Secure key management:** Keep encryption keys confidential and store them securely.
 - **Cipher mode selection:** CBC mode is generally preferred over ECB mode for better security.
@@ -75,7 +69,7 @@ This Python application provides a user-friendly interface for encrypting and de
 - **Error handling:** Pay attention to error messages for troubleshooting.
 
 
-**## Additional Information**
+**Additional Information**
 
 - **Code structure:** The code is organized into classes for readability and maintainability.
 - **GUI layout:** The GUI is designed using `pygubu` for a user-friendly experience.
