@@ -21,7 +21,7 @@ This Python application provides a user-friendly interface for encrypting and de
 - `pycryptodome`
 - `tkinter`
 
-** Installation**
+**Installation**
 
 1. Install dependencies:
 
