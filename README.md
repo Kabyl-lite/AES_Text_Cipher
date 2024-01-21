@@ -13,7 +13,7 @@ This Python application provides a user-friendly interface for encrypting and de
 - **IV generation:** Choose random or null initialization vectors (IVs) for CBC mode.
 - **File loading and saving:** Encrypt and decrypt text from and to files.
 - **Error handling:** Displays informative error messages to guide users.
-
+- **Seamless UI:** Simply yet seamless User Interface foe easier approach
 **Dependencies**
 
 - Python 3
